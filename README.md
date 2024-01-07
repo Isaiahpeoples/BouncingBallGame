@@ -5,7 +5,7 @@ This project is a game that utilizes the 'tkinter' module within Python to creat
 <br />
 
 
-<h2>Keywords, Functions, & Utilites Used</h2>
+<h2>Keywords, Functions, & Utilities Used</h2>
 
 - <b>tkinter module</b> 
 - <b>random module</b>

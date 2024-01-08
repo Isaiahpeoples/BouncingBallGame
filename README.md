@@ -20,7 +20,7 @@ This project is a game that utilizes the 'tkinter' module within Python to creat
 <h2>Project Walk-Through:</h2>
 
 <p align="center">
-Create the Canvas: <br/>
+Create the canvas: <br/>
 <img src="https://i.imgur.com/HgcJN29.png" height="80%" width="80%" alt="Bouncing Ball Game Steps"/>
 <br />
 <br />

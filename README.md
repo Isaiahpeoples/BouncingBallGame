@@ -31,6 +31,7 @@ Create the ball:  <br/>
 Add motion to the ball: <br/>
 <img src="https://i.imgur.com/2AmDJZn.gif" height="80%" width="80%" alt="Bouncing Ball Game Steps"/>
 <br />
+<br />
 Add collision to the ball: <br/>
 <img src="https://i.imgur.com/0UnvPXh.gif" height="80%" width="80%" alt="Bouncing Ball Game Steps"/>
 <br />
@@ -49,6 +50,7 @@ Add collision to the paddle:  <br/>
 <br />
 Add an element of chance to the game:  <br/>
 <img src="https://i.imgur.com/yTqWsAh.gif" height="80%" width="80%" alt="Bouncing Ball Game Steps"/>
+<br />
 <br />
 Final touches! Randomizer, delayed click to start, ball aceleration, score, color changes, & game over:  <br/>
 <img src="https://i.imgur.com/OReiPuu.gif" height="80%" width="80%" alt="Bouncing Ball Game Steps"/>

@@ -1,10 +1,18 @@
-<h1>Bouncing Ball Game</h1>
-
+<div align="center" id="toc">
+<ul style="list-style: none">
+<summary>
+ <h1>Bouncing Ball Game</h1>
+</summary>
+</ul>
+</div>
+ 
+<br>
+ 
 <h2>Description</h2>
 This project is a game that utilizes the 'tkinter' module within Python to create a bouncing ball and a controllable paddle. To begin playing the game, the player clicks anywhere in the game window. The ball bounces around the screen and the paddle is used to prevent the ball from hitting the bottom of the screen which will cause a GAME OVER. A score counter is located at the top right and it rises each time the ball hits the paddle. To add a bit of difficulty the ball will increase in speed if the paddle is moving in the same direction once it strikes the ball. If the paddle was struck while moving in the opposite direction of the ball, the speed of the ball will decrease.
 <br />
-
-
+<br />
+<br />
 <h2>Keywords, Functions, & Utilities Used</h2>
 
 - <b>tkinter module</b> 
@@ -16,9 +24,9 @@ This project is a game that utilizes the 'tkinter' module within Python to creat
 - <b>while</b>
 - <b>if</b>
 - <b>or</b>
+<br /><br />
 
 <h2>Project Walk-Through:</h2>
-
 
 <h3 align="center">Create the canvas:</h3> <br/>
 <p align="center">
